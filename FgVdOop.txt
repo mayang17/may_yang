@@ -1,0 +1,9 @@
+Fungsional programming dan OOP (Object-Oriented Programming) adalah paradigma pemrograman yang berbeda. Fungsional programming mengutamakan fungsi sebagai unit dasar, sementara OOP berfokus pada objek sebagai unit dasar. Berikut ini adalah penjelasan singkat tentang perbedaan antara keduanya beserta contoh kode program pada Python:
+
+Fungsional Programming
+Fungsional programming adalah paradigma pemrograman yang berfokus pada fungsi sebagai unit dasar. Fungsi dalam fungsional programming tidak memiliki efek samping (side effect) dan bersifat deterministic, artinya output yang dihasilkan dari fungsi hanya bergantung pada inputnya saja. Fungsional programming sangat memperhatikan konsep immutability, yaitu data tidak boleh diubah setelah dibuat.
+Object-Oriented Programming (OOP)
+OOP adalah paradigma pemrograman yang berfokus pada objek sebagai unit dasar. Objek dalam OOP memiliki atribut dan metode. Atribut adalah data yang dimiliki oleh objek, sedangkan metode adalah tindakan yang dapat dilakukan oleh objek. OOP sangat memperhatikan konsep enkapsulasi, yaitu menyembunyikan detail implementasi dari objek.
+Perbedaan antara fungsional programming dan OOP pada contoh kode program di atas terletak pada cara mereka menangani data dan operasi yang dilakukan pada data. Fungsional programming menggunakan fungsi sebagai unit dasar untuk mengolah data, sedangkan OOP menggunakan objek yang memiliki atribut dan metode untuk mengolah data. Pada contoh kode program fungsional programming, terdapat fungsi sum_list yang menerima sebuah list angka dan mengembalikan jumlah seluruh angka dalam list tersebut. Sedangkan pada contoh kode program OOP, terdapat kelas Hewan yang memiliki atribut nama,npm serta metode get_info yang mengembalikan informasi lengkap tentang objek tersebut.
+
+Kode program di atas dapat diunggah ke GitHub masing-masing sebagai contoh implementasi fungsional programming dan OOP pada Python.
